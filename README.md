@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/badge/4%20dan-555555)
 
 
-|                        Difficulty                      |                                Title                                | Solution |
-|--------------------------------------------------------|---------------------------------------------------------------------|----------|
-| ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|          |
+|                        Difficulty                      |                                Title                                |                              Solution                               |
+|--------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|
 | Cell 4     |Cell 5 |  Cell 6  |
