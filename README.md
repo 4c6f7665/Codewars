@@ -15,14 +15,3 @@
 |                        Difficulty                      |                                Title                                |                                   Solution                                 |
 |--------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|[C++](https://github.com/4c6f7665/Codewars/edit/main/C%2B%2B/Square_sums.cpp)
-
-<details>
-<summary>Dropdown Title</summary>
-
-Dropdown content goes here.
-
-- Item 1
-- Item 2
-- Item 3
-
-</details>
