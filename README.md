@@ -12,6 +12,6 @@
 ![License](https://img.shields.io/badge/4%20dan-555555)
 
 
-|                        Difficulty                      |                                Title                                |                                   Solution                                 |
-|--------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|[C++](https://github.com/4c6f7665/Codewars/edit/main/C%2B%2B/Square_sums.cpp)
+|Difficulty|Title|Solution|
+|-|-|-|
+| ![License](https://img.shields.io/badge/6%20kyu-ECB613)|[Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/cpp)|[C++](https://github.com/4c6f7665/Codewars/blob/main/C%2B%2B/Create_Phone_Number.cpp)
