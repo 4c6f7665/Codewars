@@ -12,7 +12,6 @@
 ![License](https://img.shields.io/badge/4%20dan-555555)
 
 
-|                        Difficulty                      |                                Title                                |                              Solution                               |
-|--------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|
-| Cell 4     |Cell 5 |  Cell 6  |
+|                        Difficulty                      |                                Title                                |                          Solution                           |
+|--------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------|
+| ![License](https://img.shields.io/badge/1%20kyu-866CC7)|[Square sums](https://www.codewars.com/kata/5a667236145c462103000091)|[C++]([https://www.codewars.com/kata/5a667236145c462103000091](https://github.com/4c6f7665/Codewars/edit/main/C%2B%2B/Square_sums.cpp)https://github.com/4c6f7665/Codewars/edit/main/C%2B%2B/Square_sums.cpp)|
