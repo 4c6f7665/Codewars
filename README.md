@@ -1,4 +1,3 @@
-# Codewars
 ![License](https://img.shields.io/badge/8%20kyu-E6E6E6)
 ![License](https://img.shields.io/badge/7%20kyu-E6E6E6)
 ![License](https://img.shields.io/badge/6%20kyu-ECB613)
